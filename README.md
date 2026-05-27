@@ -24,5 +24,6 @@ This session introduces a "back-to-basics" hiring framework that bypasses high-l
 ## 🤝 Let's Connect
 
 Did you attend the talk at MakeIT or Jcon Slovenia? Feel free to open an issue or reach out if you want to discuss the future of engineering interviews!
-https://www.linkedin.com/in/martin-ladeck%C3%BD-9366ba5/
-https://github.com/martin-ladecky
+
+- [LinkedIn](https://www.linkedin.com/in/martin-ladeck%C3%BD-9366ba5/)
+- [GitHub](https://github.com/martin-ladecky)
